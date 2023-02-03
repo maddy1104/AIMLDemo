@@ -22,4 +22,3 @@ jobs:
           cml-publish feature_importance.png >> Report.md
           cml-publish residuals.png >> Report.md
           cml-send-comment Report.md
-          #End
